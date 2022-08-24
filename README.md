@@ -1,13 +1,7 @@
 # An Enhanced Binary Particle Swarm Optimization (E-BPSO)
 An Enhanced Binary Particle Swarm Optimization for service placement in hybrid cloud.
-
-
-    
-## Table of Contents
-
-
+  
 ## Overview
-
 The package currently includes a single objective function with three constraints.
 
 ## Requirements
@@ -18,8 +12,8 @@ The package currently includes a single objective function with three constraint
 ## Installation and download
 After downloading all the java files, makes them in a Java tools
 
-
-
+## Results
+For each HQ, the results are obtained by calculating the average of 10 runs.
 
 ## Contact
 
@@ -38,4 +32,3 @@ This package is provided under two licenses:
 - [Particle swarm optimization](http://en.wikipedia.org/wiki/Particle_swarm_optimization) on Wikipedia
 - [PSO](https://ieeexplore.ieee.org/document/488968)
 - [Binary PSO](https://ieeexplore.ieee.org/document/637339)
-
