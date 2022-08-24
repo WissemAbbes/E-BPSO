@@ -15,7 +15,7 @@ public interface PSOConstants {
 	double W_UPPERBOUND = 1.0;
 	double W_LOWERBOUND = 0.0;
         float HQ = 50, a=40, b1=20, b2=10;
-        String file="../ServiceGraph/graph"+PROBLEM_DIMENSION+"_10_.txt";
+        String file="data.txt";
         float[][] mat1=read_capacity(file);
         float [][] mat2=read_connection(file);     
         
