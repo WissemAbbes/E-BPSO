@@ -17,8 +17,6 @@ public interface PSOConstants {
         float HQ = 50, a=40, b1=20, b2=10;
         String file="../ServiceGraph/graph"+PROBLEM_DIMENSION+"_10_.txt";
         float[][] mat1=read_capacity(file);
-        float [][] mat2=read_connection(file);
-        //float HQ_=100;//HQ_ is the capacity compared to the total capacities
-       
+        float [][] mat2=read_connection(file);     
         
 }
