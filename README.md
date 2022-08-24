@@ -10,7 +10,7 @@ The package currently includes a single objective function with three constraint
 - [NetBeans](https://netbeans.apache.org/) or [Eclipse](https://www.eclipse.org/downloads/)
 
 ## Installation and download
-After downloading all the java files, makes them in a Java tools
+After downloading all the Java and data files, make them in Java tools (Netbeans, Eclipse, etc.), and execute the PSODriver.java file.
 
 ## Results
 For each HQ, the results are obtained by calculating the average of 10 runs.
